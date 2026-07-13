@@ -2,7 +2,7 @@
 <h3 align="center">AI & ML Engineer | Building Intelligent Systems with Python, Django & GenAI 🤖</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineering+Student;Machine+Learning+%7C+Generative+AI+%7C+LLMs;Django+%26+Python+Backend+Developer;Co-Founder+%40+Campus+Crew;Building+KB+Car+Garage+%F0%9F%9A%97;Always+Learning%2C+Always+Building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=5EEAD4&background=00000000&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineering+Student;Machine+Learning+%7C+Generative+AI+%7C+LLMs;Django+%26+Python+Backend+Developer;Co-Founder+%40+Campus+Crew;Building+KB+Car+Garage+%F0%9F%9A%97;Always+Learning%2C+Always+Building!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,19 +11,27 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhargav-jadav-b5731b3a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:bhagavjadav580@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/bhargavjadav580-crypto" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="tel:8849912622"><img src="https://img.shields.io/badge/Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bhargav-jadav-b5731b3a4" target="_blank">
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImcxIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzM4QkRGOCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM4MThDRjgiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxnPgogICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiBhdHRyaWJ1dGVUeXBlPSJYTUwiIHR5cGU9InJvdGF0ZSIgZnJvbT0iMCA1MCA1MCIgdG89IjM2MCA1MCA1MCIgZHVyPSI1cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDxyZWN0IHg9IjgiIHk9IjgiIHdpZHRoPSI4NCIgaGVpZ2h0PSI4NCIgcng9IjI0IiBmaWxsPSJ1cmwoI2cxKSIvPgogICAgPHRleHQgeD0iNTAiIHk9IjY1IiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LXNpemU9IjQyIiBmaWxsPSIjZmZmZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5pbjwvdGV4dD4KICA8L2c+Cjwvc3ZnPgo=" width="70" title="LinkedIn — click to visit" />
+  </a>
+  <a href="mailto:bhagavjadav580@gmail.com">
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImcyIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI0ZGOUE1NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNGRjZBODgiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxnPgogICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiBhdHRyaWJ1dGVUeXBlPSJYTUwiIHR5cGU9InJvdGF0ZSIgZnJvbT0iMCA1MCA1MCIgdG89IjM2MCA1MCA1MCIgZHVyPSI1cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDxyZWN0IHg9IjgiIHk9IjgiIHdpZHRoPSI4NCIgaGVpZ2h0PSI4NCIgcng9IjI0IiBmaWxsPSJ1cmwoI2cyKSIvPgogICAgPHRleHQgeD0iNTAiIHk9IjY2IiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LXNpemU9IjQwIiBmaWxsPSIjZmZmZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5APC90ZXh0PgogIDwvZz4KPC9zdmc+Cg==" width="70" title="Email — click to send" />
+  </a>
+  <a href="tel:8849912622">
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImczIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzZFRTdCNyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMzNEQzOTkiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxnPgogICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiBhdHRyaWJ1dGVUeXBlPSJYTUwiIHR5cGU9InJvdGF0ZSIgZnJvbT0iMCA1MCA1MCIgdG89IjM2MCA1MCA1MCIgZHVyPSI1cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDxyZWN0IHg9IjgiIHk9IjgiIHdpZHRoPSI4NCIgaGVpZ2h0PSI4NCIgcng9IjI0IiBmaWxsPSJ1cmwoI2czKSIvPgogICAgPHBhdGggZD0iTTUwIDI1Yy0xMy44IDAtMjUgMTEuMi0yNSAyNSAwIDQuNCAxLjIgOC42IDMuMiAxMi4yTDI1IDc1bDEzLjItMy40QzQxLjcgNzMuNSA0NS43IDc1IDUwIDc1YzEzLjggMCAyNS0xMS4yIDI1LTI1UzYzLjggMjUgNTAgMjV6IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIvPgogICAgPHBhdGggZD0iTTQxIDQzYzAgOCA2IDE2IDE2IDE2IDIgMCAzLTEgMy0zbC0xLTRjMC0xLTEtMi0yLTJsLTMgMWMtMi0yLTQtNC01LTZsMS0zYzAtMSAwLTItMS0ybC00LTNjLTEtMS0zLTEtMyAxeiIgZmlsbD0iI2ZmZmZmZiIvPgogIDwvZz4KPC9zdmc+Cg==" width="70" title="WhatsApp — click to chat" />
+  </a>
+  <a href="https://github.com/bhargavjadav580-crypto" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center"><sub>👆 Tap any icon — it spins and takes you straight there</sub></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5EEAD4,50:818CF8,100:C084FC&height=150&section=header&text=Welcome%20to%20my%20Profile!&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:6A5CFF,100:9D00FF&height=150&section=header&text=Welcome%20to%20my%20Profile!&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-open%20to%20opportunities-00F7FF?style=for-the-badge&logo=statuspage&logoColor=black" />
-  <img src="https://img.shields.io/badge/focus-AI%20%2F%20ML%20%2F%20GenAI-9D00FF?style=for-the-badge&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/status-open%20to%20opportunities-5EEAD4?style=for-the-badge&logo=statuspage&logoColor=black" />
+  <img src="https://img.shields.io/badge/focus-AI%20%2F%20ML%20%2F%20GenAI-C084FC?style=for-the-badge&logo=brain&logoColor=white" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
@@ -54,10 +62,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-00F7FF?style=for-the-badge&logo=tensorflow&logoColor=black" />
-  <img src="https://img.shields.io/badge/Generative%20AI-9D00FF?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-6A5CFF?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-00F7FF?style=for-the-badge&logo=googlebard&logoColor=black" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-5EEAD4?style=for-the-badge&logo=tensorflow&logoColor=black" />
+  <img src="https://img.shields.io/badge/Generative%20AI-C084FC?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-818CF8?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FDE68A?style=for-the-badge&logo=googlebard&logoColor=black" />
 </p>
 
 > 💡 Hover over the icons above — GitHub renders these as live, interactive badges/icons (true CSS hover glow isn't supported inside GitHub's README sandbox, but these services add motion, color and clickable interactivity as the closest equivalent).
@@ -127,25 +135,23 @@ Cricket • Travelling • Reading Newspapers • Watching Movies
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhargav-jadav-b5731b3a4" target="_blank">
-    <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=0A66C2" />
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImcxIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzM4QkRGOCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM4MThDRjgiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxnPgogICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiBhdHRyaWJ1dGVUeXBlPSJYTUwiIHR5cGU9InJvdGF0ZSIgZnJvbT0iMCA1MCA1MCIgdG89IjM2MCA1MCA1MCIgZHVyPSI1cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDxyZWN0IHg9IjgiIHk9IjgiIHdpZHRoPSI4NCIgaGVpZ2h0PSI4NCIgcng9IjI0IiBmaWxsPSJ1cmwoI2cxKSIvPgogICAgPHRleHQgeD0iNTAiIHk9IjY1IiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LXNpemU9IjQyIiBmaWxsPSIjZmZmZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5pbjwvdGV4dD4KICA8L2c+Cjwvc3ZnPgo=" width="80" title="LinkedIn — click to visit" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:bhagavjadav580@gmail.com">
-    <img src="https://img.shields.io/badge/-Send%20an%20Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=D14836" />
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImcyIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI0ZGOUE1NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNGRjZBODgiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxnPgogICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiBhdHRyaWJ1dGVUeXBlPSJYTUwiIHR5cGU9InJvdGF0ZSIgZnJvbT0iMCA1MCA1MCIgdG89IjM2MCA1MCA1MCIgZHVyPSI1cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDxyZWN0IHg9IjgiIHk9IjgiIHdpZHRoPSI4NCIgaGVpZ2h0PSI4NCIgcng9IjI0IiBmaWxsPSJ1cmwoI2cyKSIvPgogICAgPHRleHQgeD0iNTAiIHk9IjY2IiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LXNpemU9IjQwIiBmaWxsPSIjZmZmZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5APC90ZXh0PgogIDwvZz4KPC9zdmc+Cg==" width="80" title="Email — click to send" />
   </a>
-  <a href="https://github.com/bhargavjadav580-crypto" target="_blank">
-    <img src="https://img.shields.io/badge/-Follow%20on%20GitHub-181717?style=for-the-badge&logo=Github&logoColor=white&labelColor=181717" />
+  &nbsp;&nbsp;
+  <a href="tel:8849912622">
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImczIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzZFRTdCNyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMzNEQzOTkiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxnPgogICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiBhdHRyaWJ1dGVUeXBlPSJYTUwiIHR5cGU9InJvdGF0ZSIgZnJvbT0iMCA1MCA1MCIgdG89IjM2MCA1MCA1MCIgZHVyPSI1cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDxyZWN0IHg9IjgiIHk9IjgiIHdpZHRoPSI4NCIgaGVpZ2h0PSI4NCIgcng9IjI0IiBmaWxsPSJ1cmwoI2czKSIvPgogICAgPHBhdGggZD0iTTUwIDI1Yy0xMy44IDAtMjUgMTEuMi0yNSAyNSAwIDQuNCAxLjIgOC42IDMuMiAxMi4yTDI1IDc1bDEzLjItMy40QzQxLjcgNzMuNSA0NS43IDc1IDUwIDc1YzEzLjggMCAyNS0xMS4yIDI1LTI1UzYzLjggMjUgNTAgMjV6IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIvPgogICAgPHBhdGggZD0iTTQxIDQzYzAgOCA2IDE2IDE2IDE2IDIgMCAzLTEgMy0zbC0xLTRjMC0xLTEtMi0yLTJsLTMgMWMtMi0yLTQtNC01LTZsMS0zYzAtMSAwLTItMS0ybC00LTNjLTEtMS0zLTEtMyAxeiIgZmlsbD0iI2ZmZmZmZiIvPgogIDwvZz4KPC9zdmc+Cg==" width="80" title="WhatsApp — click to chat" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhargav-jadav-b5731b3a4" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="60" title="Click to open LinkedIn" />
-  </a>
-</p>
+<p align="center"><sub>💫 Rotating icons — tap any one to connect instantly</sub></p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D00FF,50:6A5CFF,100:00F7FF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:818CF8,100:5EEAD4&height=120&section=footer" />
 </p>
 <p align="center"><i>⭐️ From <a href="https://github.com/bhargavjadav580-crypto">Jadav Bhargav</a> — Thanks for visiting!</i></p>
