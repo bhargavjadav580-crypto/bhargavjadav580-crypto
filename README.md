@@ -1,157 +1,128 @@
-<h1 align="center">Hi there, I'm Jadav Bhargav 👋</h1>
-<h3 align="center">AI & ML Engineer | Building Intelligent Systems with Python, Django & GenAI 🤖</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=5EEAD4&background=00000000&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineering+Student;Machine+Learning+%7C+Generative+AI+%7C+LLMs;Django+%26+Python+Backend+Developer;Co-Founder+%40+Campus+Crew;Building+KB+Car+Garage+%F0%9F%9A%97;Always+Learning%2C+Always+Building!" alt="Typing SVG" />
+# Hey, I'm Bhargav Jadav 👋
+### AI/ML Developer • GenAI & RAG Developer • Open Source Contributor
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+GenAI+and+RAG+Powered+Applications;Exploring+Machine+Learning+and+Deep+Learning;Open+Source+Contributor+%7C+GSSoC+%2726" alt="Typing animation" />
+
+<p>
+  <a href="https://komarev.com/ghpvc/?username=darshil2032007&label=Profile%20views&color=0e75b6&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=darshil2032007&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhargavjadav580-crypto&label=Profile%20Views&color=9D00FF&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/bhargavjadav580-crypto?label=Followers&style=social" alt="followers" />
-</p>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhargav-jadav-b5731b3a4" target="_blank">
-    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImcxIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzM4QkRGOCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM4MThDRjgiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxnPgogICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiBhdHRyaWJ1dGVUeXBlPSJYTUwiIHR5cGU9InJvdGF0ZSIgZnJvbT0iMCA1MCA1MCIgdG89IjM2MCA1MCA1MCIgZHVyPSI1cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDxyZWN0IHg9IjgiIHk9IjgiIHdpZHRoPSI4NCIgaGVpZ2h0PSI4NCIgcng9IjI0IiBmaWxsPSJ1cmwoI2cxKSIvPgogICAgPHRleHQgeD0iNTAiIHk9IjY1IiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LXNpemU9IjQyIiBmaWxsPSIjZmZmZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5pbjwvdGV4dD4KICA8L2c+Cjwvc3ZnPgo=" width="70" title="LinkedIn — click to visit" />
-  </a>
-  <a href="mailto:bhagavjadav580@gmail.com">
-    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImcyIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI0ZGOUE1NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNGRjZBODgiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxnPgogICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiBhdHRyaWJ1dGVUeXBlPSJYTUwiIHR5cGU9InJvdGF0ZSIgZnJvbT0iMCA1MCA1MCIgdG89IjM2MCA1MCA1MCIgZHVyPSI1cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDxyZWN0IHg9IjgiIHk9IjgiIHdpZHRoPSI4NCIgaGVpZ2h0PSI4NCIgcng9IjI0IiBmaWxsPSJ1cmwoI2cyKSIvPgogICAgPHRleHQgeD0iNTAiIHk9IjY2IiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LXNpemU9IjQwIiBmaWxsPSIjZmZmZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5APC90ZXh0PgogIDwvZz4KPC9zdmc+Cg==" width="70" title="Email — click to send" />
-  </a>
-  <a href="tel:8849912622">
-    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImczIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzZFRTdCNyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMzNEQzOTkiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxnPgogICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiBhdHRyaWJ1dGVUeXBlPSJYTUwiIHR5cGU9InJvdGF0ZSIgZnJvbT0iMCA1MCA1MCIgdG89IjM2MCA1MCA1MCIgZHVyPSI1cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDxyZWN0IHg9IjgiIHk9IjgiIHdpZHRoPSI4NCIgaGVpZ2h0PSI4NCIgcng9IjI0IiBmaWxsPSJ1cmwoI2czKSIvPgogICAgPHBhdGggZD0iTTUwIDI1Yy0xMy44IDAtMjUgMTEuMi0yNSAyNSAwIDQuNCAxLjIgOC42IDMuMiAxMi4yTDI1IDc1bDEzLjItMy40QzQxLjcgNzMuNSA0NS43IDc1IDUwIDc1YzEzLjggMCAyNS0xMS4yIDI1LTI1UzYzLjggMjUgNTAgMjV6IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIvPgogICAgPHBhdGggZD0iTTQxIDQzYzAgOCA2IDE2IDE2IDE2IDIgMCAzLTEgMy0zbC0xLTRjMC0xLTEtMi0yLTJsLTMgMWMtMi0yLTQtNC01LTZsMS0zYzAtMSAwLTItMS0ybC00LTNjLTEtMS0zLTEtMyAxeiIgZmlsbD0iI2ZmZmZmZiIvPgogIDwvZz4KPC9zdmc+Cg==" width="70" title="WhatsApp — click to chat" />
-  </a>
-  <a href="https://github.com/bhargavjadav580-crypto" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<p align="center"><sub>👆 Tap any icon — it spins and takes you straight there</sub></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5EEAD4,50:818CF8,100:C084FC&height=150&section=header&text=Welcome%20to%20my%20Profile!&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-open%20to%20opportunities-5EEAD4?style=for-the-badge&logo=statuspage&logoColor=black" />
-  <img src="https://img.shields.io/badge/focus-AI%20%2F%20ML%20%2F%20GenAI-C084FC?style=for-the-badge&logo=brain&logoColor=white" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🎓 B.E. in **Artificial Intelligence & Machine Learning** @ L.D. College of Engineering, Ahmedabad (GTU) — 2024–2028
-- 🧠 Passionate about **Machine Learning, Generative AI, and Large Language Models (LLMs)**
-- 🛠️ Currently building **KB Car Garage** — a real-world garage management platform focused on operational efficiency
-- 🏆 **Runner-Up** at IIT Gandhinagar's Open Innovative Project Competition
-- 🤝 Co-Founder & Technical Lead @ **Campus Crew** — leading tech teams and operations for 1.5+ years
-- 💼 3-month **Python & Django Internship** — backend development, databases, real-world workflows
-- 🌱 Actively exploring **Prompt Engineering** and applied GenAI projects
-- 💬 Ask me about Python, Django, Machine Learning, or Generative AI
-- ⚡ Fun fact: I love turning ideas into working products — from hackathons to real platforms
+* 🤖 Building AI/ML and GenAI-powered applications, including RAG pipelines and intelligent assistants
+* 🌱 Active open source contributor — currently part of GSSoC, working across multiple repositories
+* 💻 Passionate about frontend development and integrating AI features into real-world web apps
+* 🧩 Enjoy competitive programming and sharpening problem-solving skills
+* 📊 Exploring data science workflows and model experimentation
+* 🤝 Open to collaborating on innovative AI and full-stack projects
 
----
-
-### 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,java,cpp,c,html,css,js,bootstrap" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,jupyter,postman" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-5EEAD4?style=for-the-badge&logo=tensorflow&logoColor=black" />
-  <img src="https://img.shields.io/badge/Generative%20AI-C084FC?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-818CF8?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-FDE68A?style=for-the-badge&logo=googlebard&logoColor=black" />
-</p>
-
-> 💡 Hover over the icons above — GitHub renders these as live, interactive badges/icons (true CSS hover glow isn't supported inside GitHub's README sandbox, but these services add motion, color and clickable interactivity as the closest equivalent).
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
-### 📌 Featured Project
-
-<p align="center">
-  <a href="https://github.com/bhargavjadav580-crypto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhargavjadav580-crypto&repo=Python&theme=radical&hide_border=true" />
-  </a>
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/bhargav-jadav-b5731b3a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bhargavjadav580@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </p>
 
-**🚗 KB Car Garage** — A real-world garage management platform built to streamline day-to-day garage operations, service tracking, and customer management, improving operational efficiency through technology.
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
-### 💼 Experience Snapshot
+## 🧰 Tech Stack
 
-| Role | Organization | Duration |
-|---|---|---|
-| Co-Founder & Technical Lead | Campus Crew | 2024 – Present |
-| Python & Django Intern | — | 3 Months |
-| Competitor (Runner-Up) | IIT Gandhinagar Open Innovative Project Competition | — |
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,html,css" />
+</p>
+
+### AI / ML & GenAI
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+### Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,firebase" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,jupyter,postman" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 📈 GitHub Analytics
+
+<!-- Streak Feature -->
+<div align="center" width="50%">
+  <p>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=darshil2032007&theme=dark" alt="GitHub Streak" /></a>
+  </p>
+</div>
+
+<!-- Dropdown for More Stats -->
+<div align="center" style="max-width: 600px; margin: auto;">
+
+  <div align="center">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshil2032007&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshil2032007&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darshil2032007&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darshil2032007&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=darshil2032007&theme=github_dark" />
+  </div>
+  <br>
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhargavjadav580-crypto&show_icons=true&theme=radical&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavjadav580-crypto&layout=compact&theme=radical&hide_border=true" width="30%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavjadav580-crypto&theme=radical&hide_border=true" width="60%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhargavjadav580-crypto&theme=react-dark&hide_border=true" width="90%" />
-</p>
+  [![Darshil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=darshil2032007&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏅 GSSoC'26 Badges
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhargavjadav580-crypto&theme=radical&no-frame=true&row=1&column=7" />
-</p>
+<!-- Replace the src links below with your own GSSoC badge images once you receive them -->
+<img width="150" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/70bab968-ce4d-4fe3-acf3-a0977576d4a6" />
+<img width="150" alt="gssoc-badge-rising_star" src="https://github.com/user-attachments/assets/fae3c72f-abba-4ec9-82b5-c786df4f7c4b" />
+<img width="150" alt="gssoc-badge-point_scorer" src="https://github.com/user-attachments/assets/56635e5d-f8f1-4142-9378-07a641c53a40" />
+<img width="150" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/44394bb1-06c5-41e4-8614-aae65b3bd4eb" />
 
----
-
-### 🎯 Interests
-
-`Artificial Intelligence` `Machine Learning` `Generative AI & LLMs` `Backend Development` `Real-World Product Building` `Tech Entrepreneurship` `Open-Source Learning`
-
-### 🏏 Beyond Code
-
-Cricket • Travelling • Reading Newspapers • Watching Movies
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
-<h3 align="center">📫 Let's Connect</h3>
+## 🕹️ Contribution Snake
 
-<p align="center">
-  Open to internships, collaborations, and AI/ML projects — reach out anytime!
-</p>
+<!-- This requires a one-time setup using a GitHub Action (Platane/snk) on a repo named darshil2032007/darshil2032007.
+     Once set up, it will generate an SVG on an "output" branch — then update the links below. -->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhargav-jadav-b5731b3a4" target="_blank">
-    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImcxIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzM4QkRGOCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM4MThDRjgiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxnPgogICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiBhdHRyaWJ1dGVUeXBlPSJYTUwiIHR5cGU9InJvdGF0ZSIgZnJvbT0iMCA1MCA1MCIgdG89IjM2MCA1MCA1MCIgZHVyPSI1cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDxyZWN0IHg9IjgiIHk9IjgiIHdpZHRoPSI4NCIgaGVpZ2h0PSI4NCIgcng9IjI0IiBmaWxsPSJ1cmwoI2cxKSIvPgogICAgPHRleHQgeD0iNTAiIHk9IjY1IiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LXNpemU9IjQyIiBmaWxsPSIjZmZmZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5pbjwvdGV4dD4KICA8L2c+Cjwvc3ZnPgo=" width="80" title="LinkedIn — click to visit" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:bhagavjadav580@gmail.com">
-    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImcyIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI0ZGOUE1NiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNGRjZBODgiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxnPgogICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiBhdHRyaWJ1dGVUeXBlPSJYTUwiIHR5cGU9InJvdGF0ZSIgZnJvbT0iMCA1MCA1MCIgdG89IjM2MCA1MCA1MCIgZHVyPSI1cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDxyZWN0IHg9IjgiIHk9IjgiIHdpZHRoPSI4NCIgaGVpZ2h0PSI4NCIgcng9IjI0IiBmaWxsPSJ1cmwoI2cyKSIvPgogICAgPHRleHQgeD0iNTAiIHk9IjY2IiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LXNpemU9IjQwIiBmaWxsPSIjZmZmZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5APC90ZXh0PgogIDwvZz4KPC9zdmc+Cg==" width="80" title="Email — click to send" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="tel:8849912622">
-    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImczIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzZFRTdCNyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMzNEQzOTkiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxnPgogICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiBhdHRyaWJ1dGVUeXBlPSJYTUwiIHR5cGU9InJvdGF0ZSIgZnJvbT0iMCA1MCA1MCIgdG89IjM2MCA1MCA1MCIgZHVyPSI1cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDxyZWN0IHg9IjgiIHk9IjgiIHdpZHRoPSI4NCIgaGVpZ2h0PSI4NCIgcng9IjI0IiBmaWxsPSJ1cmwoI2czKSIvPgogICAgPHBhdGggZD0iTTUwIDI1Yy0xMy44IDAtMjUgMTEuMi0yNSAyNSAwIDQuNCAxLjIgOC42IDMuMiAxMi4yTDI1IDc1bDEzLjItMy40QzQxLjcgNzMuNSA0NS43IDc1IDUwIDc1YzEzLjggMCAyNS0xMS4yIDI1LTI1UzYzLjggMjUgNTAgMjV6IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIvPgogICAgPHBhdGggZD0iTTQxIDQzYzAgOCA2IDE2IDE2IDE2IDIgMCAzLTEgMy0zbC0xLTRjMC0xLTEtMi0yLTJsLTMgMWMtMi0yLTQtNC01LTZsMS0zYzAtMSAwLTItMS0ybC00LTNjLTEtMS0zLTEtMyAxeiIgZmlsbD0iI2ZmZmZmZiIvPgogIDwvZz4KPC9zdmc+Cg==" width="80" title="WhatsApp — click to chat" />
-  </a>
-</p>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4nshhh/4nshhh/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4nshhh/4nshhh/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/4nshhh/4nshhh/output/pacman-contribution-graph.svg">
+</picture>
 
-<p align="center"><sub>💫 Rotating icons — tap any one to connect instantly</sub></p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:818CF8,100:5EEAD4&height=120&section=footer" />
+  <i>Turning Models into Meaningful Applications.</i><br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-<p align="center"><i>⭐️ From <a href="https://github.com/bhargavjadav580-crypto">Jadav Bhargav</a> — Thanks for visiting!</i></p>
